@@ -19,7 +19,7 @@ const MainInfo = () => {
                               <h1 style={{color:'white'}}>
                                   37%
                               </h1>
-                              <p>   Средняя годовая доходность с 2017 года </p>
+                              <p>   Средняя годовая доходность с 2018 года </p>
 
                           </div>
                           <div className= {allClass} >
